@@ -4,7 +4,6 @@ Welcome :)
 
 🌱 I’m currently learning ...
   - JavaScript
-  - Flutter
   - MongoDB
 
 <!--

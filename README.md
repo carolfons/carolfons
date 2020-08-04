@@ -3,7 +3,7 @@
 Welcome :)
 
 🌱 I’m currently learning ...
-  - HTML| CSS | JavaScript
+  - HTML | CSS | JavaScript
   - MongoDB
 
 <!--

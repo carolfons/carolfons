@@ -1,5 +1,5 @@
 <h1>Bem Vindo(a) :)</h1>
-<h3>:bust_in_silhouette: Pronomes: ela/dela</h3>
+<p>:bust_in_silhouette: Pronomes: ela/dela</p>
 
 ------------------------------------------------------------------------------------------------------------------------
 <img width="auto" src="https://github.com/carolfons/carolfons/blob/master/assets/images/banner.PNG"> 

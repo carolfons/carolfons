@@ -4,8 +4,11 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 <h2>🌱 Estou Aprendendo...</h2>
-  <li>HTML | CSS | JavaScript</li>
+  <li> HTML | CSS | JavaScript</li>
  <li> MongoDB </li>
+ 
+ <h2> Como me encontrar :busts_in_silhouette:: </h2>
+ 
 
 <!--
 **carolfons/carolfons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

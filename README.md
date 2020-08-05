@@ -3,9 +3,9 @@
 <img width="auto" src="https://github.com/carolfons/carolfons/blob/master/images/banner.PNG"> 
 
 ------------------------------------------------------------------------------------------------------------------------
-<h2>🌱 I’m currently learning ...</h2>
-  - HTML | CSS | JavaScript
-  - MongoDB
+<h2>🌱 Estou Aprendendo...</h2>
+  <li>HTML | CSS | JavaScript</li>
+ <li> MongoDB </li>
 
 <!--
 **carolfons/carolfons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

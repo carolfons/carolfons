@@ -1,6 +1,6 @@
 <h1>Bem Vindo :)</h1>
 
-<img width="auto" src="https://github.com/carolfons/carolfons/tree/master/images"> 
+<img width="auto" src="https://github.com/carolfons/carolfons/blob/master/images/banner.jpg"> 
 
 
 🌱 I’m currently learning ...

@@ -1,4 +1,6 @@
-<h1>Welcome :)</h1>
+<h1>Bem Vindo :)</h1>
+
+<img width="auto" src="https://github.com/carolfons/carolfons/tree/master/images"> 
 
 
 🌱 I’m currently learning ...

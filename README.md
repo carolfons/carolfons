@@ -8,7 +8,7 @@
  <li> MongoDB </li>
 
 <h2>:pushpin: Sobre mim...</h2>
-<p> Estudante do 9° período de Engenharia da Computação, sempre diposta a aprender cada vez mais.</p>
+<p> Estudante do 9° período de Engenharia da Computação, sempre diposta a aprender cada vez mais. Atualmente atuo como membro do Developer Circle, uma comunidade do Facebook com o objetivo de reunir pessoas interessadas em tecnologia. </p>
 
 ------------------------------------------------------------------------------------------------------------------------
 <h2>:busts_in_silhouette: Como me encontrar: </h2>

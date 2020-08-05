@@ -2,8 +2,8 @@
 
 <img width="auto" src="https://github.com/carolfons/carolfons/blob/master/images/banner.PNG"> 
 
-
-🌱 I’m currently learning ...
+------------------------------------------------------------------------------------------------------------------------
+<h2>🌱 I’m currently learning ...</h2>
   - HTML | CSS | JavaScript
   - MongoDB
 

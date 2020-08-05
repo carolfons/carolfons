@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome :)
+<h2>Welcome :)</h2>
 
 🌱 I’m currently learning ...
   - HTML | CSS | JavaScript

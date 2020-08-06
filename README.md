@@ -22,7 +22,7 @@
 <a href="https://twitter.com/carol_fons"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/twitter.svg"></a>
 </p>
 
-<blockquote align = "center"> "Do or do not, there is no try" </blockquote>
+<blockquote> "Do or do not, there is no try" </blockquote>
 
 <!--
 **carolfons/carolfons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

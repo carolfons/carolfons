@@ -21,7 +21,6 @@
 <a href="https://www.linkedin.com/in/carolinefons/"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/linkedin.svg"></a>
 <a href="https://twitter.com/carol_fons"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/twitter.svg"></a>
 </p>
-------------------------------------------------------------------------------------------------------------------------
 
 <blockquote align = "center"> "Do or do not, there is no try" </blockquote>
 

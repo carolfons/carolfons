@@ -1,5 +1,5 @@
 <h1>Welcome :)</h1>
-<p>:bust_in_silhouette: Pronouns: she/her </p>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/carolfons?label=GitHub&style=social">
 
 ------------------------------------------------------------------------------------------------------------------------
 <img width="auto" src="https://github.com/carolfons/carolfons/blob/master/assets/images/banner.PNG"> 

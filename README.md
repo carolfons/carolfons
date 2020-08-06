@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 <h2>:pushpin: About me...</h2>
-<h5> :bust_in_silhouette: Pronouns she/her </h5>
+<h5> :bust_in_silhouette: Pronouns: she/her </h5>
 <p> Computer Engineering Student, always willing to learn. I am currently working as a member of Facebook Developer Circles, a Facebook community with the goal of bringing together people that love to learn about technology. </p>
 
 <h2>:computer: I am currently learning...</h2>

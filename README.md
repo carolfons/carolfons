@@ -1,4 +1,4 @@
-<h1>Welcome :octocat: </h1>
+<h1> Welcome :seedling: </h1>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/carolfons?label=GitHub&style=social">
 
 ------------------------------------------------------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/carolfons?label=GitHub&style=social">
 
 ------------------------------------------------------------------------------------------------------------------------
-<img width="auto" src="https://github.com/carolfons/carolfons/blob/master/assets/images/banner.PNG"> 
+<p align = "center"><img width="auto" height = "200" src="https://github.com/carolfons/carolfons/blob/master/assets/images/banner.PNG"></p>
 
 ------------------------------------------------------------------------------------------------------------------------
 <h2>:pushpin: About me...</h2>

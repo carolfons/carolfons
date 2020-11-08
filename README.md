@@ -10,9 +10,12 @@
 <p> Computer Engineering Student, always willing to learn. I am currently working as a member of Facebook Developer Circles, a Facebook community with the goal of bringing together people that love to learn about technology. </p>
 
 <h2>:computer: I am currently learning...</h2>
+<ul>
   <li> HTML | CSS | JavaScript</li>
- <li> MongoDB </li>
-
+  <li>Kotlin</li>
+  <li>WordPress</li>
+  <li> JAVA EE</li>
+</ul>
 ------------------------------------------------------------------------------------------------------------------------
 <h2>:busts_in_silhouette: How to find me... </h2>
 

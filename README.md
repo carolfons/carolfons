@@ -14,6 +14,7 @@
   <li> HTML | CSS | JavaScript</li>
   <li>Kotlin</li>
   <li>WordPress</li>
+  <li>PHP</li>
   <li> JAVA EE</li>
 </ul>
 <h2>:busts_in_silhouette: How to find me... </h2>

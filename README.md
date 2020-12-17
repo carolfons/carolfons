@@ -29,6 +29,7 @@
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=carolfons&count_private=true&show_icons=true&theme=vue-dark" alt="Carol github status" width="450" /> &nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=vue-dark" alt="Top Languages" width="auto"/></p>
+<br>
 
 <p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>
 

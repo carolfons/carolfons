@@ -19,13 +19,15 @@
 </ul>
 <h2>:busts_in_silhouette: How to find me... </h2>
 
- <p>
+ <p align ="center">
 <a href="https://instagram.com/carol_fonseca?igshid=dnporjyj4w72"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/carolinefons/"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/linkedin.svg"></a>
 <a href="https://twitter.com/carol_fons"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/twitter.svg"></a>
 </p>
 
-<blockquote> "Do or do not, there is no try" </blockquote>
+<h2> :zap: Stats </h2>
+<img src="https://github-readme-stats.vercel.app/api?username=carolfons&count_private=true&show_icons=true&theme=vue-dark" alt="Carol github status" width="400/>
+<p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>
 
 <!--
 **carolfons/carolfons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

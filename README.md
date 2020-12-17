@@ -26,7 +26,10 @@
 </p>
 
 <h2> :zap: Stats </h2>
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=carolfons&count_private=true&show_icons=true&theme=vue-dark" alt="Carol github status" width="400/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=vue-dark" alt="Top Langs" width="334"/>
+</p>
 <p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>
 
 <!--

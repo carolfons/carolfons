@@ -1,8 +1,14 @@
-<h1> Welcome :seedling: </h1>
+<h1>  Welcome :seedling: </h1>
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/carolfons?label=GitHub&style=social">
 
 ------------------------------------------------------------------------------------------------------------------------
 <p align = "center"><img width="auto" height = "200" src="https://github.com/carolfons/carolfons/blob/master/assets/images/banner.PNG"></p>
+<p align ="center">
+<a href="https://instagram.com/carol_fonseca?igshid=dnporjyj4w72"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/instagram.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/carolinefons/"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/carol_fons"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/twitter.svg"></a>
+</p>
 
 ------------------------------------------------------------------------------------------------------------------------
 <h2>:pushpin: About me...</h2>
@@ -17,18 +23,10 @@
   <li>PHP</li>
   <li> JAVA EE</li>
 </ul>
-<h2>:busts_in_silhouette: How to find me... </h2>
 
- <p>
-<a href="https://instagram.com/carol_fonseca?igshid=dnporjyj4w72"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/instagram.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/carolinefons/"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/linkedin.svg"></a>
-<a href="https://twitter.com/carol_fons"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/twitter.svg"></a>
-</p>
-
-<h2> :zap: Stats </h2>
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=carolfons&count_private=true&show_icons=true&theme=vue-dark" alt="Carol github status" width="450" /> &nbsp; &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=vue-dark" alt="Top Languages" width="auto"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=carolfons&count_private=true&show_icons=true&theme=vue" alt="Carol github status" width="450" /> &nbsp; &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=vue" alt="Top Languages" width="auto"/></p>
 <br>
 
 <p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>

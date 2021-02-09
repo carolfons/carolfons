@@ -18,10 +18,8 @@
 <h2>:computer: I am currently learning...</h2>
 <ul>
   <li> HTML | CSS | JavaScript</li>
-  <li>Kotlin</li>
-  <li>WordPress</li>
+  <li>React</li>
   <li>PHP</li>
-  <li> JAVA EE</li>
 </ul>
 
 <p align = "center">

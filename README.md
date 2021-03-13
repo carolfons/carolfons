@@ -1,4 +1,4 @@
-<h1 align = "center">  Welcome :seedling:</h1>
+<h1 align = "center">  Welcome :computer: </h1>
 
 
 <p align = "center"><img  height = "150" width = "300" src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt = "gif code"/> </p>
@@ -11,23 +11,42 @@
 ----
 
 <!-- <p align = "center"><img width="auto" height = "100" src="https://github.com/carolfons/carolfons/blob/master/assets/images/banner.PNG"></p> -->
-------------------------------------------------------------------------------------------------------------------------
-<h2>:pushpin: About me...</h2>
-<h5> :bust_in_silhouette: Pronouns: she/her </h5>
-<p> Computer Engineering Student, always willing to learn. I am currently working as a member of Facebook Developer Circles, a Facebook community with the goal of bringing together people that love to learn about technology. </p>
 
-<h2>:computer: I am currently learning...</h2>
-<ul>
-  <li> HTML | CSS | JavaScript</li>
-  <li>React</li>
-  <li>PHP</li>
-</ul>
+----
+<h2>:pushpin: About me ...</h2>
+<h5> :bust_in_silhouette: Pronouns: she/her </h5>
+<p> Computer Engineering Student, always willing to learn. I am currently working as a Web Developer at Inatel Competence Center and I am  a member of Facebook Developer Circles, a Facebook community with the goal of bringing together people that love to learn about technology. </p>
+
+<h2>:computer: Some knowledge in technologies </h2>
+<p align = "center"> 
+  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&color=red&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
+  </p>
+  
+----
+
+<h2> I am currently learning...</h2>
+<p align = "center"> 
+  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </p>
+
+----
 
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=carolfons&count_private=true&show_icons=true&theme=vue" alt="Carol github status" width="450" /> &nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=vue" alt="Top Languages" width="auto"/></p>
 <br>
-
 <p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>
 
 <!--

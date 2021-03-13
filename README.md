@@ -17,7 +17,7 @@
 <h5> :bust_in_silhouette: Pronouns: she/her </h5>
 <p> Computer Engineering Student, always willing to learn. I am currently working as a Web Developer at Inatel Competence Center and I am  a member of Facebook Developer Circles, a Facebook community with the goal of bringing together people that love to learn about technology. </p>
 
-<h2>:computer: Some knowledge in technologies </h2>
+<h2> Some knowledge in technologies </h2>
 <p align = "center"> 
   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&color=red&logoColor=white"/>

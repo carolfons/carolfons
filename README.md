@@ -1,15 +1,16 @@
-<h1>  Welcome :seedling: </h1>
+<h1 align = "center">  Welcome :seedling:</h1>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/carolfons?label=GitHub&style=social">
 
-------------------------------------------------------------------------------------------------------------------------
-<p align = "center"><img width="auto" height = "200" src="https://github.com/carolfons/carolfons/blob/master/assets/images/banner.PNG"></p>
+<p align = "center"><img  height = "150" width = "300" src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt = "gif code"/> </p>
 <p align ="center">
 <a href="https://instagram.com/carol_fonseca?igshid=dnporjyj4w72"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/carolinefons/"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/carol_fons"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/twitter.svg"></a>
 </p>
 
+----
+
+<!-- <p align = "center"><img width="auto" height = "100" src="https://github.com/carolfons/carolfons/blob/master/assets/images/banner.PNG"></p> -->
 ------------------------------------------------------------------------------------------------------------------------
 <h2>:pushpin: About me...</h2>
 <h5> :bust_in_silhouette: Pronouns: she/her </h5>

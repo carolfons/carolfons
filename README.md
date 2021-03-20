@@ -1,15 +1,7 @@
-<h1 align = "center">  Welcome :computer: </h1>
+<h1 align = "center">  Welcome  <img height = "80" src = "https://media1.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif?cid=ecf05e47yhopn4he03k9rimhmohuzpd78m0vf08p97ijnf1l&rid=giphy.gif" alt = "gif code"/> </h1>
 
 
-<p align = "center"><img  height = "150" width = "300" src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt = "gif code"/> </p>
-<p align ="center">
-<a href="https://instagram.com/carol_fonseca?igshid=dnporjyj4w72"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/instagram.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/carolinefons/"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/carol_fons"><img height="30" src="https://github.com/carolfons/carolfons/blob/master/assets/icons/twitter.svg"></a>
-</p>
-
-----
-
+<p align = "center"> </p>
 <!-- <p align = "center"><img width="auto" height = "100" src="https://github.com/carolfons/carolfons/blob/master/assets/images/banner.PNG"></p> -->
 
 ----
@@ -31,7 +23,7 @@
   
 ----
 
-<h2> I am currently learning...</h2>
+<h2> I am currently learning</h2>
 <p align = "center"> 
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -42,6 +34,9 @@
   </p>
 
 ----
+
+<h2> Contact and Network </h2>
+<p align = "center"> <a href = https://instagram.com/carol_fonseca> <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=vue" alt="Carol github status" width="450" /> &nbsp; &nbsp;

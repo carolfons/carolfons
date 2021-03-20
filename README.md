@@ -1,14 +1,13 @@
+
+<!--Titulo -->
 <h1 align = "center">  Welcome  <img height = "80" src = "https://media1.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif?cid=ecf05e47yhopn4he03k9rimhmohuzpd78m0vf08p97ijnf1l&rid=giphy.gif" alt = "gif code"/> </h1>
 
-
-<p align = "center"> </p>
-<!-- <p align = "center"><img width="auto" height = "100" src="https://github.com/carolfons/carolfons/blob/master/assets/images/banner.PNG"></p> -->
-
-----
+<!--about me-->
 <h2>:pushpin: About me ...</h2>
 <h5> :bust_in_silhouette: Pronouns: she/her </h5>
 <p> Computer Engineering Student, always willing to learn. I am currently working as a Web Developer at Inatel Competence Center and I am  a member of Facebook Developer Circles, a Facebook community with the goal of bringing together people that love to learn about technology. </p>
 
+<!--technologies-->
 <h2> Some knowledge in technologies </h2>
 <p align = "center"> 
   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -22,7 +21,7 @@
   </p>
   
 ----
-
+<!--learning-->
 <h2> I am currently learning</h2>
 <p align = "center"> 
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -35,18 +34,27 @@
 
 ----
 
+<!-- contacts-->
 <h2> Contact and Network </h2>
-<p align = "center"> <a href = https://instagram.com/carol_fonseca> <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<p align = "center"> 
+  <a href = "https://www.linkedin.com/in/carolinefons/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href = https://instagram.com/carol_fonseca> <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href = "https://twitter.com/carol_fons"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
+</p>
 
+----
+
+<!-- Github stats-->
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=vue" alt="Carol github status" width="450" /> &nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=vue" alt="Top Languages" width="auto"/></p>
 <br>
+
+<!-- Yoda quote-->
 <p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>
 
 <!--
 **carolfons/carolfons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

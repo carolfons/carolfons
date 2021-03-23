@@ -46,8 +46,8 @@
 
 <!-- Github stats-->
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=vue" alt="Carol github status" width="450" /> &nbsp; &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=vue" alt="Top Languages" width="auto"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status" width="450" /> &nbsp; &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=graywhite" alt="Top Languages" width="auto"/></p>
 <br>
 
 <!-- Yoda quote-->

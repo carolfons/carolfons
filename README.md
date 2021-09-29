@@ -49,8 +49,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=graywhite" alt="Top Languages" width="auto"/></p>
 <br>
 
+<div>  
+  <h4 > Visitantes </h4>
+  <img  src="https://profile-counter.glitch.me/carolfons/count.svg">
+   </div> 
+
 <!-- Yoda quote-->
-<p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>
+<!--<p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>-->
 
 <!--
 **carolfons/carolfons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

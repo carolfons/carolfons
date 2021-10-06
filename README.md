@@ -1,58 +1,67 @@
 
 <!--Titulo -->
 <h1 align = "center">  Welcome  <img height = "80" src = "https://media1.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif?cid=ecf05e47yhopn4he03k9rimhmohuzpd78m0vf08p97ijnf1l&rid=giphy.gif" alt = "gif code"/> </h1>
-
-<!--about me-->
-<h2>:pushpin: About me ...</h2>
-<h5> :bust_in_silhouette: Pronouns: she/her </h5>
-<p> Gratuated at Computer Enginer, always willing to learn. I am currently working as a mobile developer at Toodoo ♾️  </p>
-
-<!--technologies-->
-<h2> Some knowledge in technologies </h2>
-<p align = "center"> 
-  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&color=red&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
-  </p>
   
-----
-<!--learning-->
-<h2> I am currently learning</h2>
-<p align = "center"> 
-  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   
-  </p>
 
-----
 
-<!-- contacts-->
-<h2> Contact and Network </h2>
-<p align = "center"> 
-  <a href = "https://www.linkedin.com/in/carolinefons/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href = https://instagram.com/carol_fonseca> <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href = "https://twitter.com/carol_fons"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
+<p align = "center"> Gratuated at Computer Enginer, always willing to learn. I am currently working as a mobile developer at Toodoo ♾️ </p>
+<!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="300px" align="right" alt="Computador iuriCode">-->
+
+ <h3 align = "right"> Visitors:  <img width = "150" src="https://profile-counter.glitch.me/carolfons/count.svg"> </h3>
+ 
+``` js
+Developer dev = new Developer("Caroline");
+while(dev.isInFrontOfComputer()){
+  dev.openChromeBrowser();
+  dev.copyCodeFromStackOverflow();
+  dev.pasteCodeInIDE();
+  dev.feelLikeProfessionalDeveloper();
+}
+```
+
+<img alt="Night Coding" width="250" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+  ## 👨🏻‍💻 Tech Stack 
+  - Front-End Development with HTML, CSS, Javascript and ReactJs
+  - Mobile Application Development with Android Studio using Java and Kotlin
+
+
+<!-- Github Analytics-->
+<h2> Github Analytics </h2>
+<p >
+<img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status" width="auto" /> &nbsp; &nbsp;
+<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=graywhite" alt="Top Languages" width="auto"/></p>
+
+ --- 
+ <img align = "right" src = "https://media0.giphy.com/media/QU3gxEKzO9bExK4rEp/giphy.gif?cid=ecf05e476scnnrz3avts5y4v3dh9qak45ewwk011pgz28o02&rid=giphy.gif&ct=s" width ="200"/>
+ 
+ ## Now Playing
+ 
+ [![Spotify](https://novatorem-q8mcjgapc-carolfons.vercel.app/api/spotify)](https://open.spotify.com/user/carolineelgort?si=25f6b6bd998741bc)
+ 
+ ---
+
+<p align="center">
+<br/>
+<a href="https://twitter.com/carol_fons">
+  <img alt="Carol's | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.linkedin.com/in/carolinefons">
+  <img alt="Carol's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://www.facebook.com/caroline.santosfonseca">
+  <img alt="Carol's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
+<a href="https://www.instagram.com/carol_fonseca">
+  <img alt="Carol's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://open.spotify.com/user/carolineelgort?si=38517bf9ad9b4081">
+  <img alt="Carol's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
 </p>
-
-----
-
-<!-- Github stats-->
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status" width="450" /> &nbsp; &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=graywhite" alt="Top Languages" width="auto"/></p>
-<br>
-
-<div>  
-  <h4 > Visitantes </h4>
-  <img  src="https://profile-counter.glitch.me/carolfons/count.svg">
-   </div> 
+  
+ 
 
 <!-- Yoda quote-->
 <!--<p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>-->

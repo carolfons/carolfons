@@ -34,7 +34,6 @@ while(dev.isInFrontOfComputer()){
 <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=graywhite" alt="Top Languages" width="auto"/></p>
 
  --- 
- <img align = "right" src = "https://media0.giphy.com/media/QU3gxEKzO9bExK4rEp/giphy.gif?cid=ecf05e476scnnrz3avts5y4v3dh9qak45ewwk011pgz28o02&rid=giphy.gif&ct=s" width ="200"/>
  
  ## Now Playing
  

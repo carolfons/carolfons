@@ -30,7 +30,7 @@ while(dev.isInFrontOfComputer()){
 <!-- Github Analytics-->
 <h2> Github Analytics </h2>
 <p >
-<img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status" width="auto" /> &nbsp; &nbsp;
+<img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status"  /> &nbsp; &nbsp;
 <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=graywhite" alt="Top Languages" /></p>
 
 
@@ -39,7 +39,6 @@ while(dev.isInFrontOfComputer()){
  
  ### Now Playing 🎧
  
- <img align = "right" src = "https://media1.giphy.com/media/F3IsWfsR1JMyNmL44Z/giphy.gif?cid=ecf05e47si730o6dxjr87ee6s0hja96kcptmb8jmcjiry6t5&rid=giphy.gif&ct=s" width="100"/>
  
  [![Spotify](https://novatorem-q8mcjgapc-carolfons.vercel.app/api/spotify)](https://open.spotify.com/user/carolineelgort?si=25f6b6bd998741bc)
  

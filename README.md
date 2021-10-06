@@ -19,30 +19,28 @@ while(dev.isInFrontOfComputer()){
   dev.feelLikeProfessionalDeveloper();
 }
 ```
-
-<img alt="Night Coding" width="250" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<br>
+<img alt="Night Coding" width="300"  src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e476wdkyr4cgsm7qrzb5d61ra8jdekaiboe0wbvw824&rid=giphy.gif&ct=g" align="right"/>
 
   ## 👨🏻‍💻 Tech Stack 
   - Front-End Development with HTML, CSS, Javascript and ReactJs
   - Mobile Application Development with Android Studio using Java and Kotlin
 
-
-<!-- Github Analytics-->
-<h2> Github Analytics </h2>
-<p>
-<img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status"  /> 
-<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=graywhite" alt="Top Languages" /></p>
-
-
  --- 
- 
- 
+
  ### Now Playing 🎧
  
  
  [![Spotify](https://novatorem-q8mcjgapc-carolfons.vercel.app/api/spotify)](https://open.spotify.com/user/carolineelgort?si=25f6b6bd998741bc)
  
  ---
+ 
+ 
+<!-- Github Analytics-->
+<h2> Github Analytics </h2>
+<p>
+<img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status"  /> &nbsp; &nbsp;
+<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=graywhite" alt="Top Languages" /></p>
 
 <p align="center">
 <br/>

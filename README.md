@@ -10,6 +10,8 @@
 
  <h3 align = "right"> Visitors:  <img width = "150" src="https://profile-counter.glitch.me/carolfons/count.svg"> </h3>
  
+ <img alt="Night Coding" width="300"  src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e476wdkyr4cgsm7qrzb5d61ra8jdekaiboe0wbvw824&rid=giphy.gif&ct=g" align="right"/>
+ 
 ``` js
 Developer dev = new Developer("Caroline");
 while(dev.isInFrontOfComputer()){
@@ -20,7 +22,7 @@ while(dev.isInFrontOfComputer()){
 }
 ```
 <br>
-<img alt="Night Coding" width="300"  src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e476wdkyr4cgsm7qrzb5d61ra8jdekaiboe0wbvw824&rid=giphy.gif&ct=g" align="right"/>
+
 
   ## 👨🏻‍💻 Tech Stack 
   - Front-End Development with HTML, CSS, Javascript and ReactJs

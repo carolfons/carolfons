@@ -52,7 +52,7 @@ while(dev.isInFrontOfComputer()){
 
   ---
   
-<img src = "https://media1.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif?cid=ecf05e47f1qjzuz3msvzjpcy0nihwqg13piom0z1uwhf37bz&rid=giphy.gif&ct=s" align ="left" width="100"/>
+<!--<img src = "https://media1.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif?cid=ecf05e47f1qjzuz3msvzjpcy0nihwqg13piom0z1uwhf37bz&rid=giphy.gif&ct=s" align ="left" width="100"/>-->
  
 <p align="center">
 <br/>

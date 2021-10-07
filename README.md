@@ -29,11 +29,12 @@ while(dev.isInFrontOfComputer()){
   - Mobile Application Development with Android Studio using Java and Kotlin
 
  --- 
+ 
+
 
  ### Now Playing 🎧
- 
- 
- [![Spotify](https://novatorem-q8mcjgapc-carolfons.vercel.app/api/spotify)](https://open.spotify.com/user/carolineelgort?si=25f6b6bd998741bc)
+  
+ [![Spotify](https://novatorem-q8mcjgapc-carolfons.vercel.app/api/spotify)](https://open.spotify.com/user/carolineelgort?si=25f6b6bd998741bc) <img src ="https://media2.giphy.com/media/KEAefviWZOv5v4uAXQ/giphy.gif?cid=ecf05e4797ozrg0oqer83sb2fjmiuqrb6yzfimwv55612nn4&rid=giphy.gif&ct=s" align="right" width="100"/>
  
  ---
  

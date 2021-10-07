@@ -37,10 +37,12 @@ while(dev.isInFrontOfComputer()){
  
  
 <!-- Github Analytics-->
+<div>
 <h2> Github Analytics </h2>
 <p align="center">
 <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=graywhite" alt="Top Languages" />
 <img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status"  /> &nbsp; &nbsp;</p>
+  </div>
 
 <p align="center">
 <br/>

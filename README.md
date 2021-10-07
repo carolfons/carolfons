@@ -34,7 +34,7 @@ while(dev.isInFrontOfComputer()){
 
  ### Now Playing 🎧
   
- [![Spotify](https://novatorem-q8mcjgapc-carolfons.vercel.app/api/spotify)](https://open.spotify.com/user/carolineelgort?si=25f6b6bd998741bc) <img src ="https://media2.giphy.com/media/KEAefviWZOv5v4uAXQ/giphy.gif?cid=ecf05e4797ozrg0oqer83sb2fjmiuqrb6yzfimwv55612nn4&rid=giphy.gif&ct=s" align="right" width="100"/>
+ [![Spotify](https://novatorem-q8mcjgapc-carolfons.vercel.app/api/spotify)](https://open.spotify.com/user/carolineelgort?si=25f6b6bd998741bc) <img src ="https://media2.giphy.com/media/eHABhT7ESge27w2T6Z/giphy.gif?cid=ecf05e476khdb7r0mt3xnuujosughiy4g8tboex5lcr2nfjd&rid=giphy.gif&ct=s" align="right" width="100"/>
  
  ---
  

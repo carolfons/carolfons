@@ -52,7 +52,8 @@ while(dev.isInFrontOfComputer()){
 
   ---
   
-
+<img src = "https://media1.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif?cid=ecf05e47f1qjzuz3msvzjpcy0nihwqg13piom0z1uwhf37bz&rid=giphy.gif&ct=s" align ="left" width="100"/>
+ 
 <p align="center">
 <br/>
 <a href="https://twitter.com/carol_fons">
@@ -72,7 +73,7 @@ while(dev.isInFrontOfComputer()){
 </a>
 </p>
   
- 
+  
 
 <!-- Yoda quote-->
 <!--<p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>-->

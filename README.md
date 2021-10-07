@@ -1,6 +1,8 @@
 
 <!--Titulo -->
-<h1 align = "center">  Welcome  <img height = "80" src = "https://media1.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif?cid=ecf05e47yhopn4he03k9rimhmohuzpd78m0vf08p97ijnf1l&rid=giphy.gif" alt = "gif code"/> </h1>
+<h1 align = "center">  Welcome  <img width = "60" height = "60" src = "https://media4.giphy.com/media/dTWgGXLigmTl2f8Dm3/giphy.gif?cid=ecf05e47eypbuyxst3rl8m1ya8z7jexidpepw1ccky6gam3i&rid=giphy.gif&ct=s" alt = "gif code"/> </h1>
+
+<!--https://media1.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif?cid=ecf05e47yhopn4he03k9rimhmohuzpd78m0vf08p97ijnf1l&rid=giphy.gif-->
 
 <p align = "center"> Gratuated at Computer Enginer, always willing to learn. I am currently working as a mobile developer at Toodoo ♾️ </p>
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="300px" align="right" alt="Computador iuriCode">-->

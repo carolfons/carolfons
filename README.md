@@ -1,15 +1,18 @@
 
-<!--Titulo -->
+<!--Title -->
 <h1 align = "center">  Welcome  <img width = "60" height = "60" src = "https://media4.giphy.com/media/dTWgGXLigmTl2f8Dm3/giphy.gif?cid=ecf05e47eypbuyxst3rl8m1ya8z7jexidpepw1ccky6gam3i&rid=giphy.gif&ct=s" alt = "gif code"/> </h1>
 
-<!--https://media1.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif?cid=ecf05e47yhopn4he03k9rimhmohuzpd78m0vf08p97ijnf1l&rid=giphy.gif-->
-
+<!--Description-->
 <p align = "center"> Gratuated at Computer Enginer, always willing to learn. I am currently working as a mobile developer at Toodoo ♾️ </p>
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="300px" align="right" alt="Computador iuriCode">-->
 
+<!--Visitors-->
  <h3 align = "right"> Visitors:  <img width = "150" src="https://profile-counter.glitch.me/carolfons/count.svg"> </h3>
- 
+ <!--Coding image-->
  <img alt="Night Coding" width="300"  src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e476wdkyr4cgsm7qrzb5d61ra8jdekaiboe0wbvw824&rid=giphy.gif&ct=g" align="right"/>
+ 
+ 
+ <!-- Code Dev-->
  
 ``` js
 Developer dev = new Developer("Caroline");
@@ -22,6 +25,7 @@ while(dev.isInFrontOfComputer()){
 ```
 <br>
 
+<!--Tech Stack-->
 
   ## 👨🏻‍💻 Tech Stack 
   - Front-End Development with HTML, CSS, Javascript and ReactJs
@@ -34,14 +38,13 @@ while(dev.isInFrontOfComputer()){
 
  --- 
  
-
+<!--Spotify-->
 
  ### Now Playing 🎧
   
- [![Spotify](https://novatorem-q8mcjgapc-carolfons.vercel.app/api/spotify)](https://open.spotify.com/user/carolineelgort?si=25f6b6bd998741bc) <img src ="https://media2.giphy.com/media/eHABhT7ESge27w2T6Z/giphy.gif?cid=ecf05e476khdb7r0mt3xnuujosughiy4g8tboex5lcr2nfjd&rid=giphy.gif&ct=s" align="right" width="100"/>
+ [![Spotify](https://novatorem-q8mcjgapc-carolfons.vercel.app/api/spotify)](https://open.spotify.com/user/carolineelgort?si=25f6b6bd998741bc) <img src ="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" align="right" width="100"/>
  
  ---
- 
  
 <!-- Github Analytics-->
 
@@ -52,8 +55,7 @@ while(dev.isInFrontOfComputer()){
 
   ---
   
-<!--<img src = "https://media1.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif?cid=ecf05e47f1qjzuz3msvzjpcy0nihwqg13piom0z1uwhf37bz&rid=giphy.gif&ct=s" align ="left" width="100"/>-->
- 
+<!--Social Media-->
 <p align="center">
 <br/>
 <a href="https://twitter.com/carol_fons">
@@ -73,10 +75,6 @@ while(dev.isInFrontOfComputer()){
 </a>
 </p>
   
-  
-
-<!-- Yoda quote-->
-<!--<p align="center"><blockquote align="center"> "Do or do not, there is no try" </blockquote></p>-->
 
 <!--
 **carolfons/carolfons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

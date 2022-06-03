@@ -3,7 +3,7 @@
 <h1 align = "center">  Welcome  <img width = "60" height = "60" src = "https://media4.giphy.com/media/dTWgGXLigmTl2f8Dm3/giphy.gif?cid=ecf05e47eypbuyxst3rl8m1ya8z7jexidpepw1ccky6gam3i&rid=giphy.gif&ct=s" alt = "gif code"/> </h1>
 
 <!--Description-->
-<p align = "center"> Gratuated at Computer Enginer, always willing to learn. I am currently working as developer at Elgin SA  </p>
+<p align = "center"> Gratuated at Computer Enginer, always willing to learn. I am currently working as Jr. Developer at Elgin SA  </p>
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="300px" align="right" alt="Computador iuriCode">-->
 
 <!--Visitors-->
@@ -59,19 +59,19 @@ while(dev.isInFrontOfComputer()){
 <p align="center">
 <br/>
 <a href="https://twitter.com/carol_fons">
-  <img alt="Carol's | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img alt="Carol's | Twitter" width="35px" src="https://user-images.githubusercontent.com/45009920/171962869-c36bd84e-860c-43b0-bce0-75f09a0f77fa.png"/>
 </a>
 <a href="https://www.linkedin.com/in/carolinefons">
-  <img alt="Carol's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="Carol's LinkdeIN" width="35px" src="https://user-images.githubusercontent.com/45009920/171963009-a93b1025-8c40-4a19-be7f-ac6567e4ded2.png"/>
 </a>
 <a href="https://www.facebook.com/caroline.santosfonseca">
-  <img alt="Carol's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img alt="Carol's Facebook" width="35px" src="https://user-images.githubusercontent.com/45009920/171963035-7b230991-9206-45b9-b70b-1ff47d90dccb.png"/>
 </a>
 <a href="https://www.instagram.com/carol_fonseca">
-  <img alt="Carol's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="Carol's Instagram" width="35px" src="https://user-images.githubusercontent.com/45009920/171962787-1ba38b32-90cf-4ee6-8821-e2b4abc038ec.png"/>
 </a>
 <a href="https://open.spotify.com/user/carolineelgort?si=38517bf9ad9b4081">
-  <img alt="Carol's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  <img alt="Carol's Spotify" width="35px" src="https://user-images.githubusercontent.com/45009920/171963086-cd56a4ae-e586-4903-8c98-c6c9e6c71db8.png"/>
 </a>
 </p>
   

@@ -4,6 +4,7 @@
 
 <!--Description-->
 <p align = "center"> Gratuated at Computer Enginer, always willing to learn. I am currently working as Jr. Developer at Elgin SA  </p>
+  
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="300px" align="right" alt="Computador iuriCode">-->
 
 <!--Visitors-->
@@ -53,6 +54,11 @@ while(dev.isInFrontOfComputer()){
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=graywhite" alt="Top Languages" /> &nbsp; &nbsp;
 <img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status" width="400" /> </p>
 
+  ---
+  <p align = "center" >
+ <img src = "https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default">
+ </p>
+  
   ---
   
 <!--Social Media-->

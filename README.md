@@ -55,13 +55,14 @@ while(dev.isInFrontOfComputer()){
 <img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status" width="400" /> </p>
 
   ---
+  
+<!--
   <p align = "center" >
  <img src = "https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default">
- </p>
-  
-  ---
-  
+ </p> -->
+ 
 <!--Social Media-->
+
 <p align="center">
 <br/>
 <a href="https://twitter.com/carol_fons">

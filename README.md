@@ -10,7 +10,7 @@
 <!--Visitors-->
  <h3 align = "right"> Visitors:  <img width = "150" src="https://profile-counter.glitch.me/carolfons/count.svg"> </h3>
  <!--Coding image-->
- <img alt="Night Coding" width="300"  src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e476wdkyr4cgsm7qrzb5d61ra8jdekaiboe0wbvw824&rid=giphy.gif&ct=g" align="right"/>
+
  
  
  <!-- Code Dev-->

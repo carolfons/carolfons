@@ -15,10 +15,24 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Check out my <a href="https://carolfons.github.io/my-portfolio/">portfolio</a> <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /> “You don’t have to be great to start. But you have to start to be great.” <br>
 
+```js
+import Dev from 'carolfons';
+
+class AboutMe extends Dev {
+  name     = 'Caroline Santos Fonseca';
+  area    = 'Front End Development | UX/UI Design';
+  work  = 'AGV Engineer';
+  location = 'São José dos Campos - SP';
+}
+
+```
+
+--- 
+
 <!--Tech Stack-->
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25"/> Tech Stack 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,illustrator,vscode,git,github&theme=dark" />
 <!-- nextjs,vite,ts,tailwind -->
 <br>
 

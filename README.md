@@ -47,8 +47,9 @@ class AboutMe extends Dev {
 <!-- Github Analytics-->
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=compact&exclude_repo=exposure-fusion&theme=graywhite" alt="Top Languages" /> &nbsp; &nbsp;
-<img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status" width="400" /> </p>
+<img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carols github status" width="400" />&nbsp; &nbsp;
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=donut&exclude_repo=exposure-fusion&theme=graywhite" alt="Carols Top Languages" width="400" />
+</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face with Tongue" width="25" height="25" /> Contact Me 
 

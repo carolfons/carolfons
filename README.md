@@ -32,7 +32,7 @@ class AboutMe extends Dev {
 <!--Tech Stack-->
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25"/> Tech Stack 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,illustrator,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,illustrator,vscode,wordpress,git,github&theme=dark" />
 <!-- nextjs,vite,ts,tailwind -->
 <br>
 

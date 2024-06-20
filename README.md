@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="25" height="25" /> Computer Engineer graduated at INATEL (Instituto Nacional de Telecomunicações - MG/Brazil)<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> I'm always willing to learn, and I am always trying: trying out new things and striving to be a better person :) <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" /> I'm currently learning NodeJs, NextJS, Typescript and Tailwind <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Check out my <a href="https://carolfons.github.io/my-portfolio/">portfolio</a> <br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Check out my <a href="https://spangled-satin-89d.notion.site/Ol-me-chamo-Carol-Fonseca-c100ff9775a449dea3e03c3f4d0049a9?pvs=4">portfolio</a> <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /> “You don’t have to be great to start. But you have to start to be great.” <br>
 
 ```js

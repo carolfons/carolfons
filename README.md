@@ -22,7 +22,7 @@ import Dev from 'carolfons';
 class AboutMe extends Dev {
   name     = 'Caroline Santos Fonseca';
   area    = 'Front End Development | UX/UI Design';
-  work  = 'AGV Engineer';
+  stack = 'Javascript, Typescript, ReactJs';
   location = 'São José dos Campos - SP';
 }
 
@@ -48,7 +48,7 @@ class AboutMe extends Dev {
 <!-- Github Analytics-->
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=prs,issues&count_private=true&show_icons=true&theme=graywhite" alt="Carols github status" width="400" />&nbsp; &nbsp;
+<img  src="https://github-readme-stats.vercel.app/api?username=carolfons&&hide=issues&count_private=true&show_icons=true&theme=graywhite" alt="Carols github status" width="400" />&nbsp; &nbsp;
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfons&layout=donut&exclude_repo=exposure-fusion&theme=graywhite" alt="Carols Top Languages" width="400" />
 </p>
 

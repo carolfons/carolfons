@@ -3,8 +3,8 @@
 <!-- <h1 align = "center">  Welcome  <img width = "60" height = "60" src = "https://media4.giphy.com/media/dTWgGXLigmTl2f8Dm3/giphy.gif?cid=ecf05e47eypbuyxst3rl8m1ya8z7jexidpepw1ccky6gam3i&rid=giphy.gif&ct=s" alt = "gif code"/> </h1> -->
 
 
-<!--Visitors-->
- <h3 align = "right"> Visitors:  <img width = "150" src="https://profile-counter.glitch.me/carolfons/count.svg"> </h3>
+<!--Visitors
+ <h3 align = "right"> Visitors:  <img width = "150" src="https://profile-counter.glitch.me/carolfons/count.svg"> </h3>-->
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> About me
 

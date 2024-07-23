@@ -1,5 +1,8 @@
 <!--Title -->
 <p align = "center"><img src = "https://github.com/carolfons/carolfons/blob/master/header-caroline.png"> </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=217397&width=435&lines=Hello!+My+name+is+Caroline+;and+I+am+a+Frontend+Developer.)](https://git.io/typing-svg)
+
 <!-- <h1 align = "center">  Welcome  <img width = "60" height = "60" src = "https://media4.giphy.com/media/dTWgGXLigmTl2f8Dm3/giphy.gif?cid=ecf05e47eypbuyxst3rl8m1ya8z7jexidpepw1ccky6gam3i&rid=giphy.gif&ct=s" alt = "gif code"/> </h1> -->
 
 
@@ -8,7 +11,9 @@
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> About me
 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hello! My name is Caroline and I am a Frontend Developer. <br>
+
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hello! My name is Caroline and I am a Frontend Developer. <br> -->
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="25" height="25" /> My main stack is HTML, CSS, Javascript, Typescript, React, NextJS, TailwindCSS <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="25" height="25" /> Computer Engineer graduated at INATEL (Instituto Nacional de Telecomunicações - MG/Brazil)<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> I'm always willing to learn, and I am always trying: trying out new things and striving to be a better person :) <br>

@@ -1,5 +1,5 @@
 <!--Title -->
-<p align = "center"><img src = "https://github.com/carolfons/carolfons/blob/master/header-caroline.png"> </p>
+<p align = "center"><img src = "https://github.com/carolfons/carolfons/blob/master/header-fullstack.png"> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=217397&width=435&lines=Hello!+My+name+is+Caroline+;and+I+am+a+Frontend+Developer.)](https://git.io/typing-svg)
 

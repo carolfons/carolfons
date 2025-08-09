@@ -12,7 +12,7 @@
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> About me
 
 
-<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hello! My name is Caroline and I am a Frontend Developer. <br> -->
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Hello! My name is Caroline and I am a Fullstack Developer. <br> -->
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="25" height="25" /> My main stack is HTML, CSS, Javascript, React<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="25" height="25" /> Computer Engineer graduated at INATEL (Instituto Nacional de Telecomunicações - MG/Brazil)<br>
@@ -26,8 +26,8 @@ import Dev from 'carolfons';
 
 class AboutMe extends Dev {
   name     = 'Caroline Santos Fonseca';
-  area    = 'Front End Development | UX/UI Design';
-  stack = 'Javascript, Typescript, ReactJs';
+  area    = 'Fullstack Development';
+  stack = 'Javascript, Python, ReactJs';
   location = 'São José dos Campos - SP';
 }
 
@@ -38,7 +38,7 @@ class AboutMe extends Dev {
 <!--Tech Stack-->
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25"/> Tech Stack 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,vscode,wordpress,git,github,python,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github,python,nodejs,flask,sqlite&theme=dark" />
 <!-- nextjs,vite,ts,tailwind -->
 <br>
 

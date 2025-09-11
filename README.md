@@ -1,7 +1,7 @@
 <!--Title -->
 <p align = "center"><img src = "https://github.com/carolfons/carolfons/blob/master/header-fullstack.png"> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=175069&width=435&lines=Hello+World!+My+name+is+Carol+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=175069&width=435&lines=Hello+World!+My+name+is+Carol)](https://git.io/typing-svg)
 
 <!-- <h1 align = "center">  Welcome  <img width = "60" height = "60" src = "https://media4.giphy.com/media/dTWgGXLigmTl2f8Dm3/giphy.gif?cid=ecf05e47eypbuyxst3rl8m1ya8z7jexidpepw1ccky6gam3i&rid=giphy.gif&ct=s" alt = "gif code"/> </h1> -->
 
